@@ -1,0 +1,7 @@
+[
+  "tests/stats_test.py::TestStatisticsService::test_players_of_team",
+  "tests/stats_test.py::TestStatisticsService::test_search",
+  "tests/stats_test.py::TestStatisticsService::test_search_none",
+  "tests/stats_test.py::TestStatisticsService::test_topscorers",
+  "tests/stats_test.py::TestTest::test_topscorers"
+]
