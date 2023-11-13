@@ -1,4 +1,5 @@
 from project_reader import ProjectReader
+import toml
 
 
 def main():
@@ -9,3 +10,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+# poetry run python3 src/index.py
